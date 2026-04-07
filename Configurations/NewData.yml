@@ -1,0 +1,16 @@
+id: 5a77ca49-4611-4f00-93c9-df8ba20d7c89
+type: data
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    058a4b36-0906-4765-9988-e4d6b3ddb90e:
+      x: 421.5
+      y: 422
+name: NewData
+description: Data layer
+children:
+- id: 2b09ffaf-b373-4160-bf00-e765023ef3a9
+  type: entity
+- id: 9f664176-522c-4bf5-918c-354a2b89c3ca
+  type: entity
